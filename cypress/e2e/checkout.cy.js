@@ -1,7 +1,7 @@
 import { SELECTORS } from '../support/selectors';
 
 
-describe('Login Tests', () => {
+describe('Checkout Product', () => {
     beforeEach(() => {
         cy.visit('/');
         cy.fixture('test_data').then((test_data) => {
