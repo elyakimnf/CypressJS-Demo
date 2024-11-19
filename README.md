@@ -11,17 +11,17 @@ This project contains automated test scripts for [SauceDemo](https://www.saucede
 2. **Install Dependencies**
    - Run the following command to install the dependencies, including Cypress:
      ```bash
-     npm install```
+     npm install
    - If Cypress isn't included in the package.json file, you can install it manually:
      ```bash
-     npm install cypress --save-dev```
+     npm install cypress --save-dev
 4. **Run the tests**
    - Open Cypress Test Runner
      ```bash
-     npx cypress open```
+     npx cypress open
    - Run All Tests Headlessly
      ```bash
-     npx cypress run```
+     npx cypress run
 
 ---
 
