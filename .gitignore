@@ -1,2 +1,3 @@
-./support/e2e.js
-download/
+downloads/
+.DS_Store
+cypress/.DS_Store
